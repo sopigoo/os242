@@ -2,6 +2,8 @@
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://doit.vlsm.org/ETC/logCodes.txt
 
+ZCSC W01 100 L02 Monday Class
+ZCSC W01 100 L02 Wednesday Class
 ZCZC W00 30 L01 SCELE related (OS242 Google Form, Set Forum Notification, POPQUIZ W00)
 ZCZC W00 100 L02 Monday Class
 ZCZC W00 30 L06 Read OS’s documents related
