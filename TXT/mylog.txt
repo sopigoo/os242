@@ -4,6 +4,14 @@
 
 ZCSC W01 100 L02 Monday Class
 ZCSC W01 100 L02 Wednesday Class
+ZCSC W01 60 L05 Studying for weekly quiz
+ZCSC W01 20 L05 QUIZ W01
+ZCSC W01 30 L09 POP QUIZ W01
+ZCSC W01 240 L11 Assignments Week 01
+ZCSC W01 60 L09 Reading Assignment The ATM Way: GSGS and Read
+ZCSC W01 15 L08 OS Chat related with AsDos and Friend
+ZCSC W01 15 L03 GitHub related
+ZCSC W01 15 L04 GitHub Pages related
 ZCZC W00 30 L01 SCELE related (OS242 Google Form, Set Forum Notification, POPQUIZ W00)
 ZCZC W00 100 L02 Monday Class
 ZCZC W00 30 L06 Read OS’s documents related
