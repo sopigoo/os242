@@ -5,6 +5,18 @@
 ZCSC W02 100 L02 Monday Class
 ZCSC W02 100 L02 Wednesday Class
 ZCSC W02 120 L12 Assignments Week 02
+ZCSC W02 30 L08 OS Chat related with Friend
+ZCSC W02 60 L05 Studying for weekly quiz
+ZCSC W02 30 L05 QUIZ W02
+ZCSC W02 60 L09 POP QUIZ W02
+ZCSC W02 15 L26 GnuPG, key-gen, encrypt/decrypt
+ZCSC W02 20 L41 Updating mylog.txt
+ZCSC W02 20 L43 myrank.txt related
+ZCSC W02 20 L40 TXT/ related in general
+ZCSC W02 45 L64 Helping a friend with OS related
+ZCSC W02 30 L32 Watching OS related videos
+ZCSC W02 10 L44 myscript.sh related
+ZCSC W02 60 L06 Browsing and looking for references
 ZCSC W01 100 L02 Monday Class
 ZCSC W01 100 L02 Wednesday Class
 ZCSC W01 60 L05 Studying for weekly quiz
