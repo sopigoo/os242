@@ -11,3 +11,5 @@ permalink: LINKS/
 - [Linux File System and Directory Structure](https://www.scaler.com/topics/linux-tutorial/file-system-of-linux/) - Know more about the linux file system and directory
 - [How to Use SCP](https://linuxize.com/post/how-to-use-scp-command-to-securely-transfer-files/) - Learn about how to use SCP to securely transfer files
 - [Big and Little Endian Byte Order](https://betterexplained.com/articles/understanding-big-and-little-endian-byte-order/) - Understand more about the big and little endian byte order
+- [How Virtual Memory Works](https://computer.howstuffworks.com/virtual-memory.htm) - Learn about what virtual memory is, what computer uses it for, and how to configure it
+- [Partition Allocation Methods in Memory Management](https://www.geeksforgeeks.org/partition-allocation-methods-in-memory-management/) - Learn about partition allocation
