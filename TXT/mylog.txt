@@ -2,6 +2,18 @@
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://doit.vlsm.org/ETC/logCodes.txt
 
+ZCZC W06 100 L02 Wednesday Class
+ZCZC W06 100 L02 Monday Class
+ZCZC W06 100 L16 Assignment Week 06
+ZCZC W06 180 L09 POP QUIZ W06
+ZCZC W06 60 L09 Reading Assignment
+ZCZC W06 15 L07 Demo related
+ZCZC W06 15 L26 GnuPG, key-gen, encrypt/decrypt
+ZCZC W06 15 L08 OS Chat related with Friend
+ZCZC W06 30 L64 Helping a friend with OS related
+ZCZC W06 15 L41 Updating mylog.txt
+ZCZC W06 15 L43 myrank.txt related
+ZCZC W06 15 L04 Github Page related
 ZCZC W05 100 L02 Monday Class
 ZCZC W05 30 L62 Backup Virtual Debian Guest
 ZCZC W05 150 L15 Assignment Week 05

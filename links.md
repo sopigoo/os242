@@ -13,3 +13,5 @@ permalink: LINKS/
 - [Big and Little Endian Byte Order](https://betterexplained.com/articles/understanding-big-and-little-endian-byte-order/) - Understand more about the big and little endian byte order
 - [How Virtual Memory Works](https://computer.howstuffworks.com/virtual-memory.htm) - Learn about what virtual memory is, what computer uses it for, and how to configure it
 - [Partition Allocation Methods in Memory Management](https://www.geeksforgeeks.org/partition-allocation-methods-in-memory-management/) - Learn about partition allocation
+- [Docusaurus documentation](https://docusaurus.io/docs) - Know more about docusaurus
+- [Dynamic Memory Allocation in C](https://www.geeksforgeeks.org/dynamic-memory-allocation-in-c-using-malloc-calloc-free-and-realloc/) - Know more about dynamic memory allocation in C using malloc() and some other else
