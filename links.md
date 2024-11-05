@@ -15,3 +15,5 @@ permalink: LINKS/
 - [Partition Allocation Methods in Memory Management](https://www.geeksforgeeks.org/partition-allocation-methods-in-memory-management/) - Learn about partition allocation
 - [Docusaurus documentation](https://docusaurus.io/docs) - Know more about docusaurus
 - [Dynamic Memory Allocation in C](https://www.geeksforgeeks.org/dynamic-memory-allocation-in-c-using-malloc-calloc-free-and-realloc/) - Know more about dynamic memory allocation in C using malloc() and some other else
+- [Introduction of Process Synchronization](https://www.geeksforgeeks.org/introduction-of-process-synchronization/) - Dig deeper into the synchronization process of the operating system
+- [What is Deadlock in Operating System (OS)?](https://www.javatpoint.com/os-deadlocks-introduction) - Learn about Deadlock in Operating System

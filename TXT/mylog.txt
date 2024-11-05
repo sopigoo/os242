@@ -2,6 +2,15 @@
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://doit.vlsm.org/ETC/logCodes.txt
 
+ZCZC W07 100 L02 Wednesday Class
+ZCZC W07 100 L02 Monday Class
+ZCZC W07 120 L17 Assignment Week 07
+ZCZC W07 75 L09 POP QUIZ W07
+ZCZC W07 60 L09 Reading Assignment
+ZCZC W07 60 L05 Studying for weekly quiz
+ZCZC W07 60 L05 Weekly Quiz
+ZCZC W07 15 L07 Demo related
+ZCZC W07 30 L40 TXT related
 ZCZC W06 100 L02 Wednesday Class
 ZCZC W06 100 L02 Monday Class
 ZCZC W06 100 L16 Assignment Week 06
