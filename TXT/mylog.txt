@@ -3,9 +3,9 @@
 # LogCode: https://doit.vlsm.org/ETC/logCodes.txt
 
 ZCZC W08 100 L02 Wednesday Class
-ZCZC W08 100 L02 Mondah Class
+ZCZC W08 100 L02 Monday Class
 ZCZC W08 180 L18 Assignment Week 08
-ZCZC W08 60 L09n Reading Assignment
+ZCZC W08 60 L09 Reading Assignment
 ZCZC W08 60 L09 POP QUIZ W08
 ZCZC W08 100 L32 Watching OS related video on YouTube
 ZCZC W08 60 L05 Studying for weekly quiz
